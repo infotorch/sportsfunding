@@ -1,1 +1,6 @@
 .venv
+.envrc
+.ropeproject
+.ipynb_checkpoints/
+.geocode.sqlite
+.cache.sqlite

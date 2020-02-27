@@ -1,3 +1,10 @@
 {
-    "python.pythonPath": ".venv/bin/python3"
+  "files.exclude": {
+    "**/__pycache__/": true,
+    ".venv": true,
+    ".vscode": true
+  },
+  "python.pythonPath": ".venv/bin/python3",
+  "python.linting.pylintPath": "pylint",
+  "python.formatting.provider": "black"
 }
