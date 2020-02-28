@@ -5,3 +5,4 @@
 .geocode.sqlite
 .cache.sqlite
 data/boundaries/
+.cache.sqlite
