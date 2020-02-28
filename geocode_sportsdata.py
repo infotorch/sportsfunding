@@ -20,7 +20,7 @@ requests_cache.install_cache(".geocode")
 
 API_KEY = os.environ.get("GOOGLE_API_KEY", None)
 BACKOFF_TIME = 30
-QUERY_LIMIT = 20
+QUERY_LIMIT = 0
 OUTPUT_FILENAME_FOUND = "data/grants_geocoded.csv"
 OUTPUT_FILENAME_MISSED = "data/grants_geocoded_missed.csv"
 INPUT_FILENAME = "data/grants.csv"
