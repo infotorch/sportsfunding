@@ -2,14 +2,14 @@
 0,23986,Canberra Bmx Club,1,ACT,"Bmx Track, 15 Copland Dr, Melba ACT 2615, Australia",-35.2168119,149.0537802,Canberra BMX Club,"point_of_interest,establishment",Fenner
 1,2840,Canberra Dragon Boat Association,1,ACT,"Mariner Pl, Yarralumla ACT 2600, Australia",-35.299843,149.118089,Canberra Dragon Boating Association,"point_of_interest,establishment",Canberra
 2,10531,Reid Tennis Club,1,ACT,"17A Dirrawan Gardens, Reid ACT 2612, Australia",-35.2816408,149.1405969,Reid Tennis Club,"point_of_interest,establishment",Canberra
-3,200000,Woden Valley Gymnastics,1,ACT,"27 Mulley Street, Weston Creek ACT 2611, Australia",-35.332408,149.0495585,Woden Valley Gymnastics,"gym,health,point_of_interest,establishment",Bean
-4,20563,Arawang Netball Association,2,ACT,"Sherratt Pl, Stirling ACT 2611, Australia",-35.3489884,149.0445802,Arawang Netball Courts,"point_of_interest,establishment",Bean
-5,454430,Canberra Netball Association,2,ACT,"435 Northbourne Ave, Lyneham ACT 2602, Australia",-35.245048,149.1340686,Canberra Netball Association,"point_of_interest,establishment",Canberra
-6,140000,South Canberra Gymnastics Club,2,ACT,"13-31 Gartside St, Wanniassa ACT 2903, Australia",-35.4052618,149.0995952,Southern Canberra Gymnastics Club Inc,"gym,health,point_of_interest,establishment",Bean
-7,10530,Southlands Tennis Club,2,ACT,"Mawson ACT 2607, Australia",-35.3671333,149.0947046,Southlands Tennis Club,"point_of_interest,establishment",Bean
+3,200000,Woden Valley Gymnastics,1,ACT,"27 Mulley Street, Weston Creek ACT 2611, Australia",-35.332408,149.0495585,Woden Valley Gymnastics,"gym,health,point_of_interest,establishment",Canberra
+4,20563,Arawang Netball Association,2,ACT,"Sherratt Pl, Stirling ACT 2611, Australia",-35.3489884,149.0445802,Arawang Netball Courts,"point_of_interest,establishment",Canberra
+5,454430,Canberra Netball Association,2,ACT,"435 Northbourne Ave, Lyneham ACT 2602, Australia",-35.245048,149.1340686,Canberra Netball Association,"point_of_interest,establishment",Fenner
+6,140000,South Canberra Gymnastics Club,2,ACT,"13-31 Gartside St, Wanniassa ACT 2903, Australia",-35.4052618,149.0995952,Southern Canberra Gymnastics Club Inc,"gym,health,point_of_interest,establishment",Canberra
+7,10530,Southlands Tennis Club,2,ACT,"Mawson ACT 2607, Australia",-35.3671333,149.0947046,Southlands Tennis Club,"point_of_interest,establishment",Canberra
 8,47996,Riding For The Disabled Of The Act (Pegasus),3,ACT,"119 Drake-Brockman Dr, Holt ACT 2615, Australia",-35.2339093,149.0201326,Pegasus Riding for the Disabled,"point_of_interest,establishment",Fenner
-9,215569,University Of Canberra Union (Ucu),3,ACT,"11 Kirinari St, Bruce ACT 2617, Australia",-35.2384551,149.0844455,University of Canberra,"university,point_of_interest,establishment",Canberra
-10,200000,Woden Valley Gymnastics,3,ACT,"27 Mulley Street, Weston Creek ACT 2611, Australia",-35.332408,149.0495585,Woden Valley Gymnastics,"gym,health,point_of_interest,establishment",Bean
+9,215569,University Of Canberra Union (Ucu),3,ACT,"11 Kirinari St, Bruce ACT 2617, Australia",-35.2384551,149.0844455,University of Canberra,"university,point_of_interest,establishment",Fenner
+10,200000,Woden Valley Gymnastics,3,ACT,"27 Mulley Street, Weston Creek ACT 2611, Australia",-35.332408,149.0495585,Woden Valley Gymnastics,"gym,health,point_of_interest,establishment",Canberra
 11,60000,Alexander Park Dressage Club,1,NSW,"1445 Richardson Rd, Salt Ash NSW 2318, Australia",-32.7841513,151.8949714,Alexander Park Dressage Club,"point_of_interest,establishment",Paterson
 12,60000,Ballina Tennis Club,1,NSW,"Cherry St, Ballina NSW 2478, Australia",-28.865793,153.563522,Ballina Tennis Club,"point_of_interest,establishment",Richmond
 13,197000,Bar Beach Tennis Club Orporation,1,NSW,"7 Kilgour Ave, Bar Beach NSW 2300, Australia",-32.9406442,151.764176,Empire Park Tennis Courts,"point_of_interest,establishment",Newcastle
@@ -75,7 +75,7 @@
 73,184000,Eastwood Thornleigh District Tennis Association,2,NSW,"25 Britannia St, Pennant Hills NSW 2120, Australia",-33.7446321,151.0824062,Eastwood-Thornleigh District Tennis Association,"point_of_interest,establishment",Berowra
 74,30000,Helensburgh Horse And Pony Club,2,NSW,"Walker St, Helensburgh NSW 2508, Australia",-34.18742599999999,150.982156,"Helensburgh Netball Club, NSW, Australia","point_of_interest,establishment",Cunningham
 75,50000,Howlong Pony Club,2,NSW,"100 Corrys Rd, Thurgoona NSW 2640, Australia",-36.0518867,146.9676441,Wirlinga & District Pony Club,"point_of_interest,establishment",Farrer
-76,191670,Hume Tennis Club,2,NSW,"225 Marathon Blvd, Craigieburn VIC 3064, Australia",-37.5834076,144.9030833,Hume Tennis & Community Centre,"point_of_interest,establishment",Calwell
+76,191670,Hume Tennis Club,2,NSW,"225 Marathon Blvd, Craigieburn VIC 3064, Australia",-37.5834076,144.9030833,Hume Tennis & Community Centre,"point_of_interest,establishment",McEwen
 77,500000,Inner West Council,2,NSW,"Inner West Council, NSW, Australia",-33.8924403,151.1438073,Inner West Council,"administrative_area_level_2,political",Grayndler
 78,75000,Liverpool Golf Club Ltd,2,NSW,"Hollywood Dr, Lansvale NSW 2166, Australia",-33.9054708,150.9686708,Liverpool Golf Club,"school,health,point_of_interest,establishment",Fowler
 79,100000,Maryland Fletcher Football Club,2,NSW,"23 Boscawen St, Wallsend NSW 2287, Australia",-32.8994114,151.670384,Fletcher Football Club,"point_of_interest,establishment",Newcastle
@@ -164,7 +164,7 @@
 162,153233,West Daly Regional Council,1,NT,"Victoria - Daly, NT, Australia",-16.9304135,130.6346851,Victoria - Daly,"administrative_area_level_2,political",Lingiari
 163,493056,Darwin Basketball Association,2,NT,"220 Abala Rd, Marrara NT 0812, Australia",-12.4000412,130.8814921,Darwin Basketball Association,"point_of_interest,establishment",Solomon
 164,200000,Katherine Town Council,2,NT,"Katherine, NT, Australia",-14.6313686,132.0781796,Katherine,"administrative_area_level_2,political",Lingiari
-165,500000,Nt Field And Game Association,3,NT,"240 Brandt Rd, Micket Creek NT 0830 Brandt Rd, Micket Creek NT 0830, Australia",-12.4025168,130.9511874,Northern Territory Field and Game Assocation Incorporated,"point_of_interest,establishment",Lingiari
+165,500000,Nt Field And Game Association,3,NT,"240 Brandt Rd, Micket Creek NT 0830 Brandt Rd, Micket Creek NT 0830, Australia",-12.4025168,130.9511874,Northern Territory Field and Game Assocation Incorporated,"point_of_interest,establishment",Solomon
 166,191550,West Daly Regional Council,3,NT,"Victoria - Daly, NT, Australia",-16.9304135,130.6346851,Victoria - Daly,"administrative_area_level_2,political",Lingiari
 167,500000,Brothers Rugby Club,1,QLD,"103 Crosby Rd, Albion QLD 4010, Australia",-27.4329779,153.0472167,Brothers Rugby Club,"point_of_interest,establishment",Brisbane
 168,21929,Bundaberg And District Table Tennis Association,1,QLD,"4670/61 Kendalls Rd, Avoca QLD 4670, Australia",-24.8924251,152.3117123,Bundaberg and District Table Tennis Association,"point_of_interest,establishment",Hinkler
@@ -270,56 +270,56 @@
 268,96966,Tweed Heads And Coolangatta Surf Lifesaving Club,3,QLD,"Marine Parade & Hill Street, Coolangatta QLD 4225, Australia",-28.1669627,153.5443592,Tweed Heads & Coolangatta Surf Life Saving Club,"point_of_interest,establishment",McPherson
 269,45870,Baptist Care (Sa) Orporated,1,SA,"130 Rose Terrace, Wayville SA 5034, Australia",-34.94301,138.585209,Baptist Care SA,"point_of_interest,establishment",Adelaide
 270,456140,Blackwood Football Club Orporated,1,SA,"Trevor Terrace, Blackwood SA 5051, Australia",-35.0336147,138.6078072,Blackwood Football Club,"point_of_interest,establishment",Boothby
-271,250000,City Of Port Adelaide Enfield,1,SA,"Port Adelaide Enfield, SA, Australia",-34.840461,138.56876,Port Adelaide Enfield,"administrative_area_level_2,political",Makin
+271,250000,City Of Port Adelaide Enfield,1,SA,"Port Adelaide Enfield, SA, Australia",-34.840461,138.56876,Port Adelaide Enfield,"administrative_area_level_2,political",Port Adelaide
 272,500000,City Of Tea Tree Gully,1,SA,"Tea Tree Gully SA 5091, Australia",-34.826,138.726,Tea Tree Gully,"locality,political",Makin
-273,50000,Clare Motorcycle Club,1,SA,"Clare SA 5453, Australia",-33.8397986,138.6127513,Clare,"locality,political",Grey
-274,18200,Glenelg District Cricket Club,1,SA,"Brighton Rd, Glenelg East SA 5045, Australia",-34.9831885,138.520972,Glenelg District Cricket Club,"point_of_interest,establishment",Boothby
-275,50000,Greenock Cricket Club,1,SA,"Greenock SA 5360, Australia",-34.457778,138.9275,Greenock,"locality,political",Barker
+273,50000,Clare Motorcycle Club,1,SA,"Clare SA 5453, Australia",-33.8397986,138.6127513,Clare,"locality,political",Wakefield
+274,18200,Glenelg District Cricket Club,1,SA,"Brighton Rd, Glenelg East SA 5045, Australia",-34.9831885,138.520972,Glenelg District Cricket Club,"point_of_interest,establishment",Hindmarsh
+275,50000,Greenock Cricket Club,1,SA,"Greenock SA 5360, Australia",-34.457778,138.9275,Greenock,"locality,political",Wakefield
 276,12500,Hahndorf Bowling Club,1,SA,"43a Church St, Hahndorf SA 5245, Australia",-35.0300908,138.8137769,The Hahndorf Bowling Club,"point_of_interest,establishment",Mayo
 277,500000,Hectorville Sports And Community Club,1,SA,"31 Fisher St, Magill SA 5072, Australia",-34.900897,138.669543,Hectorville Sports and Community Club,"point_of_interest,establishment",Sturt
-278,50000,Peake Gardens Riverside Tennis Club,1,SA,"6/24 Bice St, Marleston SA 5033, Australia",-34.9452528,138.5687045,Peake Gardens Riverside Tennis Club,"school,health,point_of_interest,establishment",Adelaide
+278,50000,Peake Gardens Riverside Tennis Club,1,SA,"6/24 Bice St, Marleston SA 5033, Australia",-34.9452528,138.5687045,Peake Gardens Riverside Tennis Club,"school,health,point_of_interest,establishment",Hindmarsh
 279,500000,Renmark Paringa Council,1,SA,"Renmark Paringa, SA, Australia",-34.1492214,140.8872648,Renmark Paringa,"administrative_area_level_2,political",Barker
 280,500000,South Australian Cricket Association Limited,1,SA,"Adelaide Oval, War Memorial Dr, North Adelaide SA 5006, Australia",-34.9168263,138.5962914,The South Australian Cricket Association,"point_of_interest,establishment",Adelaide
 281,171511,South Australian National Football League (Sanfl),1,SA,"Level 2, Riverbank Stand, War Memorial Dr, North Adelaide SA 5006, Australia",-34.9158232,138.597069,SANFL,"point_of_interest,establishment",Adelaide
-282,8342,Sunnybrae Pony Club Orporated,1,SA,"25 Magazine Rd, Wingfield SA 5013, Australia",-34.83754,138.580905,Sunnybrae Pony Club,"point_of_interest,establishment",Makin
+282,8342,Sunnybrae Pony Club Orporated,1,SA,"25 Magazine Rd, Wingfield SA 5013, Australia",-34.83754,138.580905,Sunnybrae Pony Club,"point_of_interest,establishment",Port Adelaide
 283,30000,The Cove Bmx Club Orporated,1,SA,"2 Oval Rd, Hallett Cove SA 5158, Australia",-35.0868861,138.5056472,Cove BMX Track,"point_of_interest,establishment",Kingston
 284,50000,The Royal Adelaide Golf Club,1,SA,"328 Tapleys Hill Rd, Seaton SA 5023, Australia",-34.8962558,138.5102055,The Royal Adelaide Golf Club,"point_of_interest,establishment",Hindmarsh
 285,115000,Victor Harbor Football Club,1,SA,"16 Armstrong Rd, Victor Harbor SA 5211, Australia",-35.5549085,138.60185,Encounter Bay Football Club,"point_of_interest,establishment",Mayo
 286,8000,Wheelchair Sports Association Of South Australia,1,SA,"27 Valetta Rd, Kidman Park SA 5025, Australia",-34.9149021,138.5297851,SA Sports Medicine Association,"point_of_interest,establishment",Hindmarsh
 287,154011,Burnside Lacrosse Club Orporated,2,SA,"Devereux Rd, Linden Park SA 5065, Australia",-34.9456281,138.6511368,Burnside Lacrosse Club,"point_of_interest,establishment",Sturt
-288,320200,City Of Playford,2,SA,"Playford, SA, Australia",-34.6666391,138.6589406,Playford,"administrative_area_level_2,political",Spence
+288,320200,City Of Playford,2,SA,"Playford, SA, Australia",-34.6666391,138.6589406,Playford,"administrative_area_level_2,political",Wakefield
 289,151600,City Of Prospect,2,SA,"Prospect, SA, Australia",-34.8828879,138.5937955,Prospect,"administrative_area_level_2,political",Adelaide
 290,396466,Corporation Of The City Of Marion,2,SA,"245 Sturt Rd, Sturt SA 5047, Australia",-35.018103,138.551834,City of Marion Council,"local_government_office,point_of_interest,establishment",Boothby
 291,200000,Glenunga Tennis Club,2,SA,"99 L'Estrange St, Glenunga SA 5064, Australia",-34.9478594,138.6358946,Glenunga High School Tennis Courts,"point_of_interest,establishment",Sturt
-292,124000,Goodwood Saints Football Club,2,SA,"Curzon Ave, Millswood SA 5034, Australia",-34.9559685,138.5826175,Goodwood Saints Football Club Inc.,"point_of_interest,establishment",Boothby
+292,124000,Goodwood Saints Football Club,2,SA,"Curzon Ave, Millswood SA 5034, Australia",-34.9559685,138.5826175,Goodwood Saints Football Club Inc.,"point_of_interest,establishment",Adelaide
 293,40000,Millicent Football Netball Club,2,SA,"1 Plunkett Terrace, Millicent SA 5280, Australia",-37.5959113,140.3417214,Millicent Football Club,"point_of_interest,establishment",Barker
 294,50000,Mount Crawford Dressage Club Orporated,2,SA,"38 Cowell Rd, Mount Crawford SA 5351, Australia",-34.6843901,138.9986399,Mount Crawford Dressage Club,"point_of_interest,establishment",Barker
 295,35000,Murray Bridge Lawn Tennis Association,2,SA,"Sturt Reserve Rd, Murray Bridge SA 5253, Australia",-35.1197506,139.2819858,Murray Bridge Lawn Tennis Association,"point_of_interest,establishment",Barker
 296,80000,Naracoorte United Soccer Club,2,SA,"Sports Centre Drive, Naracoorte SA 5271, Australia",-36.9490419,140.7318833,Naracoorte United Soccer Club,"point_of_interest,establishment",Barker
-297,78800,Port Adelaide District Baseball Club,2,SA,"Swan Terrace, Semaphore South SA 5019, Australia",-34.8467154,138.4845816,Port Adelaide Baseball Club,"point_of_interest,establishment",Hindmarsh
+297,78800,Port Adelaide District Baseball Club,2,SA,"Swan Terrace, Semaphore South SA 5019, Australia",-34.8467154,138.4845816,Port Adelaide Baseball Club,"point_of_interest,establishment",Port Adelaide
 298,14524,Port Macdonnell And District Bowling Club,2,SA,"4 Elizabeth St, Port Macdonnell SA 5291, Australia",-38.0509245,140.6989837,Port Mac Donnell & District Bowling Club Inc.,"point_of_interest,establishment",Barker
-299,65000,Semaphore Bowling Club,2,SA,"5 Wills St, Largs Bay SA 5016, Australia",-34.8311138,138.4877015,Semaphore Bowling Club,"point_of_interest,establishment",Hindmarsh
+299,65000,Semaphore Bowling Club,2,SA,"5 Wills St, Largs Bay SA 5016, Australia",-34.8311138,138.4877015,Semaphore Bowling Club,"point_of_interest,establishment",Port Adelaide
 300,200000,Sturt Lions Football Club,2,SA,"West Beach SA 5024, Australia",-34.9456895,138.5120456,Sturt Lions Football Club,"point_of_interest,establishment",Hindmarsh
 301,400000,Willunga Recreation Park Orporated (Wrpi),2,SA,"9 Main Rd, Willunga SA 5172, Australia",-35.2707943,138.5537185,Willunga Recreation Park,"point_of_interest,establishment",Mayo
 302,127373,Yankalilla Bowling Club,2,SA,"106 Normanville Rd, Yankalilla SA 5203, Australia",-35.4589686,138.3475836,Yankalilla Bowling Club,"point_of_interest,establishment",Mayo
 303,499199,Adelaide Hills Council,3,SA,"Adelaide Hills, SA, Australia",-34.9062557,138.8397403,Adelaide Hills,"administrative_area_level_2,political",Mayo
 304,372537,Bellevue Heights Tennis Club Orporated,3,SA,"Sargent Parade, Bellevue Heights SA 5050, Australia",-35.0320975,138.5872213,Bellevue Heights Tennis Club,"point_of_interest,establishment",Boothby
 305,200000,Blackfriars Old Scholars Football Club,3,SA,"16 Fitzroy Terrace, Fitzroy SA 5082, Australia",-34.8996183,138.5919915,Blackfriars Old Scholars Football Club,"point_of_interest,establishment",Adelaide
-306,480000,Eudunda Sporting Club,3,SA,"Argana Park, SA, Australia, Australia",-34.701207,138.683928,Elizabeth Football Club,"point_of_interest,establishment",Spence
+306,480000,Eudunda Sporting Club,3,SA,"Argana Park, SA, Australia, Australia",-34.701207,138.683928,Elizabeth Football Club,"point_of_interest,establishment",Wakefield
 307,84000,Football Federation Sa Inc,3,SA,"Gate 5, Coopers Stadium, Holden St, Hindmarsh SA 5007, Australia",-34.9077543,138.5679499,Football Federation South Australia,"point_of_interest,establishment",Adelaide
 308,382200,Henley Football Club Oorporated,3,SA,"Atkin St, Henley Beach SA 5022, Australia",-34.91966,138.499092,Henley Sharks Football & Netball Club,"point_of_interest,establishment",Hindmarsh
 309,40550,North Eastern Sports Shooting Club,3,SA,"Range Rd N, Upper Hermitage SA 5091, Australia",-34.8193231,138.7476671,NESSCI Rifle Range,"point_of_interest,establishment",Makin
 310,213387,North Mount Gambier Football Club,3,SA,"Webb St, Mount Gambier SA 5290, Australia",-37.828686,140.7649208,Apollo Soccer Club,"point_of_interest,establishment",Barker
 311,500000,Old Collegians Rugby Union Football Club,3,SA,"Tregenza Oval, 5 Booth Ave, Linden Park SA 5065, Australia",-34.9433857,138.6490436,Old Collegians Rugby Union Football Club,"point_of_interest,establishment",Sturt
-312,62263,Port District Football Club,3,SA,"1 Woolnough Road, Largs Reserve, Largs Bay SA 5019, Australia",-34.8319424,138.488289,Port District Football Club,"point_of_interest,establishment",Hindmarsh
+312,62263,Port District Football Club,3,SA,"1 Woolnough Road, Largs Reserve, Largs Bay SA 5019, Australia",-34.8319424,138.488289,Port District Football Club,"point_of_interest,establishment",Port Adelaide
 313,18000,Port Lincoln Tennis Association,3,SA,"Port Lincoln SA 5606, Australia",-34.7190049,135.8539113,Port Lincoln Tennis Association,"point_of_interest,establishment",Grey
 314,44310,Port Pirie Basketball Association,3,SA,"53 Grey Terrace, Port Pirie South SA 5540, Australia",-33.189992,138.0127306,Donaldson Basketball Stadium,"point_of_interest,establishment",Grey
 315,9812,Price Tennis Club,3,SA,"Corner of Greenhill Rd & Peacock Rd (eastern side in parklands, Unley SA 5061, Australia",-34.9407591,138.6026037,Tennis Seniors South Australia,"point_of_interest,establishment",Adelaide
 316,162890,The Adelaide Juventus Sports And Social Club,3,SA,"155 MacKinnon Parade, North Adelaide SA 5006, Australia",-34.9121272,138.6034076,Adelaide University Soccer Club,"point_of_interest,establishment",Adelaide
-317,40000,The All Boys All Girls Club Trading As Queenstown Gymnastics,3,SA,"131 Long St, Queenstown SA 5014, Australia",-34.8582111,138.5107337,All Boys and All Girls Club - Queenstown Gymnastics,"gym,health,point_of_interest,establishment",Hindmarsh
+317,40000,The All Boys All Girls Club Trading As Queenstown Gymnastics,3,SA,"131 Long St, Queenstown SA 5014, Australia",-34.8582111,138.5107337,All Boys and All Girls Club - Queenstown Gymnastics,"gym,health,point_of_interest,establishment",Port Adelaide
 318,190000,The Tea Tree Gully Golf Club Orporated,3,SA,"Hamilton Rd, Fairview Park SA 5126, Australia",-34.8029457,138.7271818,Tea Tree Gully Golf Club,"restaurant,food,school,health,point_of_interest,establishment",Makin
-319,14120,Toorak Burnside Bowling Club,3,SA,"25 Giles St, Toorak Gardens SA 5065, Australia",-34.9311732,138.6369843,Toorak Burnside Bowling Club,"point_of_interest,establishment",Sturt
-320,409445,Town Of Gawler,3,SA,"Gawler, SA, Australia",-34.6311568,138.7291822,Gawler,"administrative_area_level_2,political",Spence
+319,14120,Toorak Burnside Bowling Club,3,SA,"25 Giles St, Toorak Gardens SA 5065, Australia",-34.9311732,138.6369843,Toorak Burnside Bowling Club,"point_of_interest,establishment",Adelaide
+320,409445,Town Of Gawler,3,SA,"Gawler, SA, Australia",-34.6311568,138.7291822,Gawler,"administrative_area_level_2,political",Wakefield
 321,54750,West Gambier Football Club Orporated,3,SA,"West Gambier Football Ground, 50 White Ave, Mount Gambier SA 5290, Australia",-37.82740039999999,140.7506198,West Gambier Football Netball Club,"point_of_interest,establishment",Barker
 322,192000,Brighton Council,1,TAS,"Brighton, TAS, Australia",-42.7133008,147.2538994,Brighton,"administrative_area_level_2,political",Lyons
 323,385000,Devonport City Soccer Club (Dcsc),1,TAS,"Lawrence Dr & Lovett St, Devonport TAS 7310, Australia",-41.1849974,146.3371611,Devonport City Soccer Club,"point_of_interest,establishment",Braddon
@@ -328,17 +328,17 @@
 326,11680,Leven Yacht Club,1,TAS,"3 Dial St, Ulverstone TAS 7315, Australia",-41.15359979999999,146.1695945,Leven Yacht Club,"point_of_interest,establishment",Braddon
 327,50000,Meander Valley Council,1,TAS,"Meander Valley, TAS, Australia",-41.6170967,146.6953592,Meander Valley,"administrative_area_level_2,political",Lyons
 328,54135,Oatlands Golf Club,1,TAS,"94 Bettington Rd, Oatlands NSW 2117, Australia",-33.7941645,151.0283245,Oatlands Golf Club,"point_of_interest,establishment",Parramatta
-329,500000,Tennis Tasmania,1,TAS,"2 Davies Ave, Queens Domain TAS 7000, Australia",-42.8737803,147.3293128,Domain Tennis Centre,"point_of_interest,establishment",Clark
+329,500000,Tennis Tasmania,1,TAS,"2 Davies Ave, Queens Domain TAS 7000, Australia",-42.8737803,147.3293128,Domain Tennis Centre,"point_of_interest,establishment",Denison
 330,200000,Clarence City Council,2,TAS,"Clarence City, TAS, Australia",-42.8462422,147.4228824,Clarence City,"administrative_area_level_2,political",Franklin
-331,100000,Latrobe Council,2,TAS,"Latrobe, TAS, Australia",-41.239641,146.5953745,Latrobe,"administrative_area_level_2,political",Braddon
+331,100000,Latrobe Council,2,TAS,"Latrobe, TAS, Australia",-41.239641,146.5953745,Latrobe,"administrative_area_level_2,political",Lyons
 332,15500,Ouse Country Club,2,TAS,"9 Tor hill road (121.02 km) 7140, Tor Hill Rd, Ouse TAS 7140, Australia",-42.484361,146.7166148,Ouse Community Country Club,"point_of_interest,establishment",Lyons
-333,58810,Riding For The Disabled Association Kalang,2,TAS,"500 Kalang Ave, Glenorchy TAS 7010, Australia",-42.8604101,147.2704463,Riding for The Disabled Association of Kalang Inc.,"point_of_interest,establishment",Clark
+333,58810,Riding For The Disabled Association Kalang,2,TAS,"500 Kalang Ave, Glenorchy TAS 7010, Australia",-42.8604101,147.2704463,Riding for The Disabled Association of Kalang Inc.,"point_of_interest,establishment",Denison
 334,98500,Scottsdale Football Club,2,TAS,"5 Rose St, Scottsdale TAS 7260, Australia",-41.155632,147.51197,Scottsdale Football Club Inc.,"point_of_interest,establishment",Bass
-335,32917,St Anne'S Cricket Club,2,TAS,"85 Cadbury Rd, Claremont TAS 7011, Australia",-42.7909165,147.2636879,St Anne's Cricket Club Inc,"point_of_interest,establishment",Clark
-336,50000,Tasmanian Rugby Union,2,TAS,"Sandy Bay TAS 7005, Australia",-42.9008456,147.3294102,University of Tasmania Rugby Union Football Club,"point_of_interest,establishment",Clark
+335,32917,St Anne'S Cricket Club,2,TAS,"85 Cadbury Rd, Claremont TAS 7011, Australia",-42.7909165,147.2636879,St Anne's Cricket Club Inc,"point_of_interest,establishment",Denison
+336,50000,Tasmanian Rugby Union,2,TAS,"Sandy Bay TAS 7005, Australia",-42.9008456,147.3294102,University of Tasmania Rugby Union Football Club,"point_of_interest,establishment",Denison
 337,200000,Dover Rsl Bowls Club,3,TAS,"7117/16 Chapman Ave, Dover TAS 7117, Australia",-43.315506,147.0169525,Dover RSL Club,"restaurant,food,point_of_interest,establishment",Franklin
-338,57500,Glenorchy Rodman Bowls & Community Club,3,TAS,"7 Innes St, Glenorchy TAS 7010, Australia",-42.830563,147.271106,Rodman Bowls Club,"point_of_interest,establishment",Clark
-339,41755,Hockey Tasmania,3,TAS,"19 Bell St, New Town TAS 7008, Australia",-42.8544471,147.3137916,Hockey Tasmania,"point_of_interest,establishment",Clark
+338,57500,Glenorchy Rodman Bowls & Community Club,3,TAS,"7 Innes St, Glenorchy TAS 7010, Australia",-42.830563,147.271106,Rodman Bowls Club,"point_of_interest,establishment",Denison
+339,41755,Hockey Tasmania,3,TAS,"19 Bell St, New Town TAS 7008, Australia",-42.8544471,147.3137916,Hockey Tasmania,"point_of_interest,establishment",Denison
 340,11000,Newstead Tennis & Squash Centre,3,TAS,"49-63 Olive St, Newstead TAS 7250, Australia",-41.438825,147.160715,Newstead Tennis & Squash Centre - 24/7 Member Access,"point_of_interest,establishment",Bass
 341,337500,Tasman Council,3,TAS,"Tasman, TAS, Australia",-43.0841311,147.7995258,Tasman,"administrative_area_level_2,political",Lyons
 342,101400,Trevallyn Cricket Club,3,TAS,"Trevallyn TAS 7250, Australia",-41.436612,147.1154821,Trevallyn Cricket Club,"point_of_interest,establishment",Bass
@@ -349,23 +349,23 @@
 347,45000,Axedale Golf Club,1,VIC,"75 Mitchell St, Axedale VIC 3551, Australia",-36.791355,144.499257,Axedale Golf Club,"point_of_interest,establishment",Bendigo
 348,50000,Banyule City Council,1,VIC,"Banyule, VIC, Australia",-37.7314254,145.082419,Banyule,"administrative_area_level_2,political",Jagajaga
 349,370000,Barwon Heads Football And Netball Club,1,VIC,"Bluff Rd, Barwon Heads VIC 3227, Australia",-38.287606,144.495018,Barwon Heads Football & Netball Club,"point_of_interest,establishment",Corangamite
-350,45000,Baw Baw Shire Council,1,VIC,"Civic Pl, Warragul VIC 3820, Australia",-38.15898869999999,145.9330295,Baw Baw Shire Council,"point_of_interest,establishment",Monash
+350,45000,Baw Baw Shire Council,1,VIC,"Civic Pl, Warragul VIC 3820, Australia",-38.15898869999999,145.9330295,Baw Baw Shire Council,"point_of_interest,establishment",McMillan
 351,190000,Boronia Hawks Football Netball Club,1,VIC,"Reserve, Tormore, Tormore Rd, Boronia VIC 3155, Australia",-37.859268,145.2791838,Boronia Hawks Football Netball Club,"point_of_interest,establishment",Aston
-352,344826,Brimbank City Council,1,VIC,"301 Hampshire Rd, Sunshine VIC 3020, Australia",-37.7830303,144.832184,Brimbank City Council,"point_of_interest,establishment",Fraser
-353,170149,Cairnlea Fc Sports Club,1,VIC,"Kevin Flint Reserve, 142A Furlong Rd, Cairnlea VIC 3023, Australia",-37.7591983,144.7933383,Cairnlea FC,"point_of_interest,establishment",Fraser
+352,344826,Brimbank City Council,1,VIC,"301 Hampshire Rd, Sunshine VIC 3020, Australia",-37.7830303,144.832184,Brimbank City Council,"point_of_interest,establishment",Gellibrand
+353,170149,Cairnlea Fc Sports Club,1,VIC,"Kevin Flint Reserve, 142A Furlong Rd, Cairnlea VIC 3023, Australia",-37.7591983,144.7933383,Cairnlea FC,"point_of_interest,establishment",Gorton
 354,10520,Camberwell Junior Football Club,1,VIC,"Camberwell Sports Ground, 420 Camberwell Road, Camberwell VIC 3124, Australia",-37.836699,145.062757,Old Scotch Football Club,"point_of_interest,establishment",Kooyong
 355,113010,Cardinia Shire Council,1,VIC,"20 Siding Ave, Officer VIC 3809, Australia",-38.065571,145.413175,Cardinia Shire Council,"local_government_office,point_of_interest,establishment",La Trobe
 356,200000,City Of Casey,1,VIC,"Casey, VIC, Australia",-38.1105316,145.2922335,Casey,"administrative_area_level_2,political",Holt
 357,150000,City Of Greater Bendigo,1,VIC,"Greater Bendigo, VIC, Australia",-36.7948261,144.3467152,Greater Bendigo,"administrative_area_level_2,political",Bendigo
 358,20000,City Of Greater Dandenong,1,VIC,"Greater Dandenong, VIC, Australia",-38.00611079999999,145.2038278,Greater Dandenong,"administrative_area_level_2,political",Isaacs
 359,20000,City Of Greater Dandenong,1,VIC,"Greater Dandenong, VIC, Australia",-38.00611079999999,145.2038278,Greater Dandenong,"administrative_area_level_2,political",Isaacs
-360,200000,Darebin City Council,1,VIC,"Darebin, VIC, Australia",-37.727768,145.016269,Darebin,"administrative_area_level_2,political",Cooper
+360,200000,Darebin City Council,1,VIC,"Darebin, VIC, Australia",-37.727768,145.016269,Darebin,"administrative_area_level_2,political",Batman
 361,150000,Darley Football Netball Club,1,VIC,"Fitzroy St & Grey ST, Darley VIC 3340, Australia",-37.658022,144.4413957,Darley Park,"park,point_of_interest,establishment",Ballarat
 362,45000,Doutta Galla Tennis Club,1,VIC,"19 Royal Ave, Essendon North VIC 3041, Australia",-37.738682,144.903972,Doutta Galla Tennis Club,"point_of_interest,establishment",Maribyrnong
 363,9086,East Coburg Tennis Club,1,VIC,"45 Pentridge Blvd, Coburg VIC 3058, Australia",-37.7413271,144.972326,Coburg East Tennis Club,"school,health,point_of_interest,establishment",Wills
 364,44886,Edenhope Golf Club,1,VIC,"Edenhope VIC 3318, Australia",-37.03356100000001,141.2833173,Edenhope Golf Club,"point_of_interest,establishment",Mallee
 365,45000,Eildon Golf Club,1,VIC,"Eildon VIC 3713, Australia",-37.2565019,145.9006688,Eildon Golf Club,"point_of_interest,establishment",Indi
-366,66000,Euroa Golf Club,1,VIC,"Euroa VIC 3666, Australia",-36.7670468,145.5621217,Euroa Golf Club,"point_of_interest,establishment",Indi
+366,66000,Euroa Golf Club,1,VIC,"Euroa VIC 3666, Australia",-36.7670468,145.5621217,Euroa Golf Club,"point_of_interest,establishment",Murray
 367,55000,Friends Of Elcho Park Equestrian Centre,1,VIC,"185 Elcho Rd, Lara VIC 3213, Australia",-38.0291054,144.3559316,Elcho Park Equestrian Centre,"point_of_interest,establishment",Corio
 368,14000,Geelong Cement Bowls Club,1,VIC,"200 McCurdy Rd, Herne Hill VIC 3218, Australia",-38.140448,144.3172773,Geelong Cement Bowls Club,"point_of_interest,establishment",Corio
 369,29800,Gisborne Soccer Club,1,VIC,"Robertson St, Gisborne VIC 3437, Australia",-37.4837851,144.5826987,Gisborne Soccer Club,"point_of_interest,establishment",McEwen
@@ -373,34 +373,34 @@
 371,213675,Glen Eira,1,VIC,"Glen Eira, VIC, Australia",-37.9034811,145.0383133,Glen Eira,"administrative_area_level_2,political",Goldstein
 372,38500,Goulburn Valley Hockey Association,1,VIC,"Curzon St, Bellfield VIC 3081, Australia",-37.755488,145.0336102,Yarra Valley Hockey Club,"point_of_interest,establishment",Jagajaga
 373,24182,Greensborough Tennis Club,1,VIC,"Greensborough Highway trail, Greensborough VIC 3088, Australia",-37.7007824,145.1056808,Greensborough Tennis Club,"point_of_interest,establishment",Jagajaga
-374,5960,Hallam Tennis Club,1,VIC,"118 Frawley Rd, Hallam VIC 3803, Australia",-38.00132,145.2685261,Hallam Tennis Club,"point_of_interest,establishment",Bruce
+374,5960,Hallam Tennis Club,1,VIC,"118 Frawley Rd, Hallam VIC 3803, Australia",-38.00132,145.2685261,Hallam Tennis Club,"point_of_interest,establishment",Holt
 375,39000,Healesville Tennis Club,1,VIC,"Queen’s Park Reserve, Don Road, Healesville VIC 3777, Australia",-37.653556,145.5221259,Healesville Tennis Club,"point_of_interest,establishment",Casey
 376,170000,Hobsons Bay City Council,1,VIC,"Hobsons Bay, VIC, Australia",-37.8360799,144.8401227,Hobsons Bay,"administrative_area_level_2,political",Gellibrand
 377,358590,Lakes Entrance Football Netball Club,1,VIC,"Lakes Entrance VIC 3909, Australia",-37.8716071,148.0031605,Lakes Entrance Croquet Club,"point_of_interest,establishment",Gippsland
 378,163491,Langwarrin Tennis Club,1,VIC,"Lloyd Park, On Frankston/Cranbourne Road, Langwarrin VIC 3910, Australia",-38.1498483,145.1892132,Langwarrin Tennis Club,"point_of_interest,establishment",Dunkley
-379,44760,Maidstone Tennis Club,1,VIC,"16-18 Thomson St, Maidstone VIC 3012, Australia",-37.788428,144.8755316,Maidstone Tennis Club,"point_of_interest,establishment",Maribyrnong
+379,44760,Maidstone Tennis Club,1,VIC,"16-18 Thomson St, Maidstone VIC 3012, Australia",-37.788428,144.8755316,Maidstone Tennis Club,"point_of_interest,establishment",Gellibrand
 380,500000,Maroondah City Council,1,VIC,"Maroondah, VIC, Australia",-37.80966,145.2590707,Maroondah,"administrative_area_level_2,political",Deakin
 381,47560,Mentone Pony Club,1,VIC,"1 Learmonth Rd, Patterson Lakes VIC 3197, Australia",-38.0727467,145.1548527,Mentone Pony Club,"point_of_interest,establishment",Isaacs
 382,50000,Montrose Tennis Club,1,VIC,"Montrose Tennis Club, Montrose VIC 3765, Australia",-37.8117158,145.3448537,Montrose Tennis Club,"premise,point_of_interest,establishment",Casey
 383,15260,Mordialloc Sailing Club,1,VIC,"12 Bowman St, Aspendale VIC 3195, Australia",-38.0104308,145.0857878,Mordialloc Sailing Club,"point_of_interest,establishment",Isaacs
-384,170000,Nillumbik Shire Council,1,VIC,"34 Civic Dr, Greensborough VIC 3088, Australia",-37.689187,145.108699,Nillumbik Shire Council,"point_of_interest,establishment",Jagajaga
-385,59437,Noble Park Bowls Club,1,VIC,"46-56 Moodemere St, Noble Park VIC 3174, Australia",-37.9775757,145.168414,Noble Park Bowls Club,"point_of_interest,establishment",Bruce
+384,170000,Nillumbik Shire Council,1,VIC,"34 Civic Dr, Greensborough VIC 3088, Australia",-37.689187,145.108699,Nillumbik Shire Council,"point_of_interest,establishment",Scullin
+385,59437,Noble Park Bowls Club,1,VIC,"46-56 Moodemere St, Noble Park VIC 3174, Australia",-37.9775757,145.168414,Noble Park Bowls Club,"point_of_interest,establishment",Isaacs
 386,20000,Old Mentonians Hockey Club Trading As Mentone Hockey Club,1,VIC,"732-742 Springvale Rd, Braeside VIC 3195, Australia",-37.996999,145.143149,Mentone Hockey Club,"point_of_interest,establishment",Isaacs
-387,500000,Pakenham Football Club,1,VIC,"Olympic Way, Pakenham VIC 3810, Australia",-38.0647227,145.4601324,Pakenham Football Club,"point_of_interest,establishment",La Trobe
-388,102572,Phillip Island District Cricket Club,1,VIC,"8 Church St, Cowes VIC 3922, Australia",-38.4514495,145.24632,Phillip Island Football Club,"restaurant,food,point_of_interest,establishment",Monash
-389,15440,Phillip Island Tennis Club,1,VIC,"40 Dunsmore Rd, Cowes VIC 3922, Australia",-38.45387059999999,145.2487476,Phillip Island Bowls Club,"point_of_interest,establishment",Monash
+387,500000,Pakenham Football Club,1,VIC,"Olympic Way, Pakenham VIC 3810, Australia",-38.0647227,145.4601324,Pakenham Football Club,"point_of_interest,establishment",McMillan
+388,102572,Phillip Island District Cricket Club,1,VIC,"8 Church St, Cowes VIC 3922, Australia",-38.4514495,145.24632,Phillip Island Football Club,"restaurant,food,point_of_interest,establishment",Flinders
+389,15440,Phillip Island Tennis Club,1,VIC,"40 Dunsmore Rd, Cowes VIC 3922, Australia",-38.45387059999999,145.2487476,Phillip Island Bowls Club,"point_of_interest,establishment",Flinders
 390,50000,Port Fairy Surf Life Saving Club,1,VIC,"4 Hughes Ave, Port Fairy VIC 3284, Australia",-38.3798077,142.2429938,Port Fairy Surf Lifesaving Club,"point_of_interest,establishment",Wannon
 391,38061,Pyrenees Shire Council,1,VIC,"Pyrenees, VIC, Australia",-37.3879637,143.4770359,Pyrenees,"administrative_area_level_2,political",Wannon
 392,15726,Riddells Creek Tennis Club Orporated,1,VIC,"Recreation Reserve,, 26/LOT 32 Sutherlands Rd, Riddells Creek VIC 3431, Australia",-37.4616607,144.6821192,Riddells Creek Tennis Club,"point_of_interest,establishment",McEwen
-393,11900,Riding For The Disabled Viewbank,1,VIC,"400 Epsom Rd, Flemington VIC 3031, Australia",-37.784485,144.9178961,RDA Victoria,"travel_agency,point_of_interest,establishment",Maribyrnong
-394,49274,Sanctuary Lakes Club,1,VIC,"70 Greg Norman Dr, Point Cook VIC 3030, Australia",-37.8959529,144.7627462,Sanctuary Lakes Golf Club,"point_of_interest,establishment",Gellibrand
+393,11900,Riding For The Disabled Viewbank,1,VIC,"400 Epsom Rd, Flemington VIC 3031, Australia",-37.784485,144.9178961,RDA Victoria,"travel_agency,point_of_interest,establishment",Melbourne
+394,49274,Sanctuary Lakes Club,1,VIC,"70 Greg Norman Dr, Point Cook VIC 3030, Australia",-37.8959529,144.7627462,Sanctuary Lakes Golf Club,"point_of_interest,establishment",Lalor
 395,100000,Schramms Sports Club,1,VIC,"Schramms Reserve, 2-50 J J Tully Dr, Doncaster VIC 3108, Australia",-37.7844109,145.1332906,Doncaster Football Club,"point_of_interest,establishment",Menzies
 396,15000,South Camberwell Tennis Club,1,VIC,"332 Burke Rd, Glen Iris VIC 3146, Australia",-37.8503412,145.0535581,South Camberwell Tennis Club,"point_of_interest,establishment",Higgins
 397,31500,South Hawthorn Tennis Club,1,VIC,"Anderson Rd, Hawthorn East VIC 3123, Australia",-37.8411846,145.0502014,South Hawthorn Tennis Club,"point_of_interest,establishment",Kooyong
-398,115000,Strathmore Sports Club,1,VIC,"5 Mascoma St, Strathmore VIC 3041, Australia",-37.7281798,144.921748,Strathmore Football Club,"point_of_interest,establishment",Maribyrnong
+398,115000,Strathmore Sports Club,1,VIC,"5 Mascoma St, Strathmore VIC 3041, Australia",-37.7281798,144.921748,Strathmore Football Club,"point_of_interest,establishment",Wills
 399,23000,Talbot Football Netball Club,1,VIC,"Shaws Rd, Werribee VIC 3030, Australia",-37.88645,144.650183,Werribee Centrals Sports Club - Werribee Centrals Football and Netball Club,"point_of_interest,establishment",Lalor
 400,50000,Yarra Ranges Shire Council,1,VIC,"Yarra Ranges, VIC, Australia",-37.7450808,145.7133909,Yarra Ranges,"administrative_area_level_2,political",Casey
-401,77241,Yarrawonga Lawn Tennis Club Orporated,1,VIC,"Burley Rd & Piper St, Yarrawonga VIC 3730, Australia",-36.0116576,145.9966235,Yarrawonga Lawn Tennis Club,"point_of_interest,establishment",Nicholls
+401,77241,Yarrawonga Lawn Tennis Club Orporated,1,VIC,"Burley Rd & Piper St, Yarrawonga VIC 3730, Australia",-36.0116576,145.9966235,Yarrawonga Lawn Tennis Club,"point_of_interest,establishment",Murray
 402,125000,Ballarat Golf Club,2,VIC,"1800 Sturt St, Ballarat VIC 3355, Australia",-37.5470246,143.8015038,Ballarat Golf Club,"bar,restaurant,food,point_of_interest,establishment",Ballarat
 403,23076,Ballarat Lawn Tennis Club,2,VIC,"497 Dowling St, Wendouree VIC 3355, Australia",-37.5265952,143.8425261,Ballarat Regional Tennis Centre,"point_of_interest,establishment",Ballarat
 404,179000,Berwick Bowling Club,2,VIC,"Edwin Flack Reserve, Manuka Rd, Berwick VIC 3806, Australia",-38.0275838,145.3628434,Berwick Bowling Club,"point_of_interest,establishment",La Trobe
@@ -409,50 +409,50 @@
 407,42468,Boneo Tennis Club Orporated,2,VIC,"570 Boneo Rd, Boneo VIC 3939, Australia",-38.4112658,144.887222,Boneo Tennis Club,"point_of_interest,establishment",Flinders
 408,50000,Bundoora Tennis Club,2,VIC,"145A Greenwood Dr, Bundoora VIC 3083, Australia",-37.7047829,145.0639712,Bundoora Tennis Club,"point_of_interest,establishment",Jagajaga
 409,59600,Buninyong Community Tennis Club,2,VIC,"Buninyong VIC 3357, Australia",-37.6492023,143.8883552,Buninyong Tennis Centre,"point_of_interest,establishment",Ballarat
-410,8000,Bunyip Tennis Club,2,VIC,"80 Nar Nar Goon - Longwarry Rd, Bunyip VIC 3815, Australia",-38.0993737,145.7190849,Bunyip Football Club,"point_of_interest,establishment",Monash
+410,8000,Bunyip Tennis Club,2,VIC,"80 Nar Nar Goon - Longwarry Rd, Bunyip VIC 3815, Australia",-38.0993737,145.7190849,Bunyip Football Club,"point_of_interest,establishment",McMillan
 411,112300,Castlemaine Lawn Tennis Club,2,VIC,"Castlemaine Lawn Tennis Club, Castlemaine VIC 3450, Australia",-37.0680571,144.2202502,Castlemaine Lawn Tennis Club,"premise,establishment",Bendigo
-412,113556,Central Goldfields Shire Council,2,VIC,"12-22 Nolan St, Maryborough VIC 3465, Australia",-37.0509602,143.740541,Central Goldfields Shire Council,"point_of_interest,establishment",Mallee
+412,113556,Central Goldfields Shire Council,2,VIC,"12-22 Nolan St, Maryborough VIC 3465, Australia",-37.0509602,143.740541,Central Goldfields Shire Council,"point_of_interest,establishment",Wannon
 413,11610,Charlton Cricket Club Orporated,2,VIC,"92 High St, Charlton VIC 3525, Australia",-36.27040909999999,143.3520042,Cricket Club Hotel,"lodging,point_of_interest,establishment",Mallee
 414,219300,Eaglehawk Soccer Club,2,VIC,"5 Murdock St, California Gully VIC 3556, Australia",-36.7302655,144.2556371,Eaglehawk soccer club,"gym,health,point_of_interest,establishment",Bendigo
 415,38750,East Doncaster Cricket Club,2,VIC,"Saxonwood Dr, Doncaster East VIC 3109, Australia",-37.77822829999999,145.1611304,East Doncaster Cricket Club,"point_of_interest,establishment",Menzies
-416,500000,East Shepparton Bowls Club,2,VIC,"2 Zurcas Ln, Shepparton VIC 3630, Australia",-36.3889328,145.426879,East Shepparton Bowls Club,"point_of_interest,establishment",Nicholls
+416,500000,East Shepparton Bowls Club,2,VIC,"2 Zurcas Ln, Shepparton VIC 3630, Australia",-36.3889328,145.426879,East Shepparton Bowls Club,"point_of_interest,establishment",Murray
 417,157245,Fitzroy Football Club (Incorporating The Fitzroy Reds),2,VIC,"74/76 Freeman St, Fitzroy North VIC 3068, Australia",-37.788989,144.981219,Brunswick Street Oval - Home of the Fitzroy Football Club (incorp. Fitzroy Reds),"point_of_interest,establishment",Melbourne
-418,96850,Footscray Park Bowling Club,2,VIC,"1 Hoadley Ct, Footscray VIC 3011, Australia",-37.7925964,144.8968915,Footscray Park Bowling Club,"point_of_interest,establishment",Maribyrnong
+418,96850,Footscray Park Bowling Club,2,VIC,"1 Hoadley Ct, Footscray VIC 3011, Australia",-37.7925964,144.8968915,Footscray Park Bowling Club,"point_of_interest,establishment",Gellibrand
 419,499000,Frankston City Council,2,VIC,"Frankston, VIC, Australia",-38.140391,145.1596592,Frankston,"administrative_area_level_2,political",Dunkley
 420,19711,Frankston Dolphins Junior Football Club,2,VIC,"179 Overport Rd, Frankston South VIC 3199, Australia",-38.1832047,145.1212371,Frankston Dolphins Junior Football Club,"point_of_interest,establishment",Dunkley
 421,396850,Glen Eira Amateur Football Club,2,VIC,"Glen Huntly Rd & St Kilda St, Elsternwick VIC 3185, Australia",-37.8842323,144.9929824,Victorian Amateur Football Association,"point_of_interest,establishment",Goldstein
 422,500000,Golden Plains Shire Council,2,VIC,"2 Pope St, Bannockburn VIC 3331, Australia",-38.0506024,144.1730475,Golden Plains Shire Council,"point_of_interest,establishment",Corangamite
-423,92450,Kew Little Athletics,2,VIC,"Athletics House, 31 Aughtie Dr, Albert Park VIC 3206, Australia",-37.8410688,144.9647271,Little Athletics Victoria,"point_of_interest,establishment",Macnamara
-424,15075,Lakeside Sailing Club Pakenham,2,VIC,"48 Cormorant Parade, Pakenham VIC 3810, Australia",-38.0669596,145.4474515,Lakeside Sailing Club - Pakenham,"point_of_interest,establishment",La Trobe
+423,92450,Kew Little Athletics,2,VIC,"Athletics House, 31 Aughtie Dr, Albert Park VIC 3206, Australia",-37.8410688,144.9647271,Little Athletics Victoria,"point_of_interest,establishment",Melbourne Ports
+424,15075,Lakeside Sailing Club Pakenham,2,VIC,"48 Cormorant Parade, Pakenham VIC 3810, Australia",-38.0669596,145.4474515,Lakeside Sailing Club - Pakenham,"point_of_interest,establishment",McMillan
 425,19907,Leitchville Bowls Club,2,VIC,"Leitchville Bowls Club, Leitchville VIC 3567, Australia",-35.9043179,144.3001849,Leitchville Bowls Club,"premise,point_of_interest,establishment",Mallee
-426,50000,Leongatha And District Netball Association,2,VIC,"54A Roughead St, Leongatha VIC 3953, Australia",-38.4692364,145.9474637,Leongatha Football Netball Club,"point_of_interest,establishment",Monash
-427,3995,Longwarry Cricket Club,2,VIC,"940 Murray Rd, Iona VIC 3815, Australia",-38.1359909,145.6948722,Iona Cricket Club,"point_of_interest,establishment",Monash
+426,50000,Leongatha And District Netball Association,2,VIC,"54A Roughead St, Leongatha VIC 3953, Australia",-38.4692364,145.9474637,Leongatha Football Netball Club,"point_of_interest,establishment",McMillan
+427,3995,Longwarry Cricket Club,2,VIC,"940 Murray Rd, Iona VIC 3815, Australia",-38.1359909,145.6948722,Iona Cricket Club,"point_of_interest,establishment",McMillan
 428,105000,Maroondah City Council,2,VIC,"Maroondah, VIC, Australia",-37.80966,145.2590707,Maroondah,"administrative_area_level_2,political",Deakin
 429,147000,Mccrae Yacht Club,2,VIC,"690 Point Nepean Rd, McCrae VIC 3938, Australia",-38.3481581,144.927311,McCrae Yacht Club,"point_of_interest,establishment",Flinders
 430,29800,Mentone Pony Club,2,VIC,"1 Learmonth Rd, Patterson Lakes VIC 3197, Australia",-38.0727467,145.1548527,Mentone Pony Club,"point_of_interest,establishment",Isaacs
 431,8700,Mildura West Cricket Club,2,VIC,"456 Eleventh St, Mildura VIC 3500, Australia",-34.1755491,142.1374692,Mildura West Cricket Club,"point_of_interest,establishment",Mallee
-432,200000,Mitchell Shire Council,2,VIC,"113 High St, Broadford VIC 3658, Australia",-37.2031246,145.048943,Mitchell Shire Council,"point_of_interest,establishment",Nicholls
-433,50000,Moe Bowling Club,2,VIC,"Moe Bowling Club, Moe VIC 3825, Australia",-38.1764104,146.2574824,Moe Bowling Club,"premise,point_of_interest,establishment",Monash
-434,200000,Monash City Council,2,VIC,"293 Springvale Rd, Glen Waverley VIC 3150, Australia",-37.8821736,145.1647521,Monash City Council,"local_government_office,point_of_interest,establishment",Chisholm
+432,200000,Mitchell Shire Council,2,VIC,"113 High St, Broadford VIC 3658, Australia",-37.2031246,145.048943,Mitchell Shire Council,"point_of_interest,establishment",McEwen
+433,50000,Moe Bowling Club,2,VIC,"Moe Bowling Club, Moe VIC 3825, Australia",-38.1764104,146.2574824,Moe Bowling Club,"premise,point_of_interest,establishment",McMillan
+434,200000,Monash City Council,2,VIC,"293 Springvale Rd, Glen Waverley VIC 3150, Australia",-37.8821736,145.1647521,Monash City Council,"local_government_office,point_of_interest,establishment",Bruce
 435,200000,Montrose Cricket Club,2,VIC,"Montrose Recreation Reserve,, 950 Mount Dandenong Tourist Rd, Montrose VIC 3765, Australia",-37.8126761,145.3436959,Montrose Football Club,"point_of_interest,establishment",Casey
 436,50000,Moonee Ponds Bowling Club,2,VIC,"776 Mt Alexander Rd,, Moonee Ponds VIC 3039, Australia",-37.7626554,144.9227538,Moonee Ponds Bowling Club,"point_of_interest,establishment",Maribyrnong
 437,48000,Moreland City Council,2,VIC,"Moreland, VIC, Australia",-37.7240653,144.9501708,Moreland,"administrative_area_level_2,political",Wills
 438,38000,Moreland City Council,2,VIC,"Moreland, VIC, Australia",-37.7240653,144.9501708,Moreland,"administrative_area_level_2,political",Wills
-439,43231,Murrumbeena Tennis Club,2,VIC,"Murrumbeena Tennis Club, Murrumbeena VIC 3163, Australia",-37.8924627,145.070615,Murrumbeena Tennis Club,"premise,point_of_interest,establishment",Higgins
+439,43231,Murrumbeena Tennis Club,2,VIC,"Murrumbeena Tennis Club, Murrumbeena VIC 3163, Australia",-37.8924627,145.070615,Murrumbeena Tennis Club,"premise,point_of_interest,establishment",Hotham
 440,5500,Napoleons Sebastopol Cricket Club,2,VIC,"Eastern Oval Adminstration Building,, 1 Ebden Street, Ballarat VIC 3350, Australia",-37.558312,143.862753,Ballarat Cricket Association,"point_of_interest,establishment",Ballarat
-441,390000,Narre Warren Bowls Club,2,VIC,"1 Magid Dr, Narre Warren VIC 3805, Australia",-38.016823,145.299553,Narre Warren Bowls Club,"point_of_interest,establishment",Bruce
-442,170000,Nillumbik Shire Council,2,VIC,"34 Civic Dr, Greensborough VIC 3088, Australia",-37.689187,145.108699,Nillumbik Shire Council,"point_of_interest,establishment",Jagajaga
+441,390000,Narre Warren Bowls Club,2,VIC,"1 Magid Dr, Narre Warren VIC 3805, Australia",-38.016823,145.299553,Narre Warren Bowls Club,"point_of_interest,establishment",Holt
+442,170000,Nillumbik Shire Council,2,VIC,"34 Civic Dr, Greensborough VIC 3088, Australia",-37.689187,145.108699,Nillumbik Shire Council,"point_of_interest,establishment",Scullin
 443,39085,Officer Tennis Club,2,VIC,"55 Old Princes Highway, Beaconsfield VIC 3807, Australia",-38.0417973,145.3671892,Beaconsfield Tennis Club,"point_of_interest,establishment",La Trobe
-444,25000,Outtrim Moyarra Kongwak Cricket Club,2,VIC,"48 Korumburra Rd, Wonthaggi VIC 3995, Australia",-38.6007906,145.5963677,Wonthaggi Cricket Club,"point_of_interest,establishment",Monash
-445,50000,Pakenham & District Golf Club,2,VIC,"Pakenham And District Golf Club, Pakenham VIC 3810, Australia",-38.0723305,145.5068861,Pakenham And District Golf Club,"premise,point_of_interest,establishment",La Trobe
-446,74755,Pakenham Upper Tennis Club,2,VIC,"781 -783 Pakenham Rd, Pakenham Upper VIC 3810, Australia",-38.0162409,145.5085659,Pakenham Upper Toomuc Cricket Club,"point_of_interest,establishment",La Trobe
-447,90000,Portarlington Golf Club,2,VIC,"130 Hood Rd, Portarlington VIC 3223, Australia",-38.1236131,144.6700899,Portarlington Golf Club,"point_of_interest,establishment",Corangamite
+444,25000,Outtrim Moyarra Kongwak Cricket Club,2,VIC,"48 Korumburra Rd, Wonthaggi VIC 3995, Australia",-38.6007906,145.5963677,Wonthaggi Cricket Club,"point_of_interest,establishment",McMillan
+445,50000,Pakenham & District Golf Club,2,VIC,"Pakenham And District Golf Club, Pakenham VIC 3810, Australia",-38.0723305,145.5068861,Pakenham And District Golf Club,"premise,point_of_interest,establishment",McMillan
+446,74755,Pakenham Upper Tennis Club,2,VIC,"781 -783 Pakenham Rd, Pakenham Upper VIC 3810, Australia",-38.0162409,145.5085659,Pakenham Upper Toomuc Cricket Club,"point_of_interest,establishment",McMillan
+447,90000,Portarlington Golf Club,2,VIC,"130 Hood Rd, Portarlington VIC 3223, Australia",-38.1236131,144.6700899,Portarlington Golf Club,"point_of_interest,establishment",Corio
 448,50000,Red Cliffs Golf Club,2,VIC,"274 Twenty Second St, Red Cliffs VIC 3498, Australia",-34.2699166,142.1654064,Red Cliffs Golf Club 19th Hole,"point_of_interest,establishment",Mallee
 449,9000,Richmond Union Cricket Club,2,VIC,"197 Church St, Richmond North VIC 3121, Australia",-37.8164375,145.0014468,Richmond Union Cricket Club,"point_of_interest,establishment",Melbourne
 450,450000,Rowville Knights Community Football Club,2,VIC,"Rowville VIC 3178, Australia",-37.9426932,145.2312073,Rowville Football Club,"point_of_interest,establishment",Aston
 451,499994,Southern Grampians Shire Council,2,VIC,"111 Brown St, Hamilton VIC 3300, Australia",-37.7421411,142.0242853,Southern Grampians Shire Council,"point_of_interest,establishment",Wannon
 452,110000,Templestowe Sporting Club,2,VIC,"100 Porter St, Templestowe VIC 3106, Australia",-37.7542012,145.1369876,Templestowe Cricket Club,"point_of_interest,establishment",Menzies
-453,50000,Tennis Australia,2,VIC,"46 Queens Rd, Melbourne VIC 3004, Australia",-37.8445388,144.977217,Albert Reserve Tennis World,"bar,school,health,point_of_interest,store,establishment",Macnamara
+453,50000,Tennis Australia,2,VIC,"46 Queens Rd, Melbourne VIC 3004, Australia",-37.8445388,144.977217,Albert Reserve Tennis World,"bar,school,health,point_of_interest,store,establishment",Melbourne Ports
 454,200000,Towong Shire Council,2,VIC,"32 Towong St, Tallangatta VIC 3700, Australia",-36.2158535,147.1770173,Towong Shire Council,"point_of_interest,establishment",Indi
 455,35980,Wangaratta Clay Target Club,2,VIC,"27 Detour Rd, North Wangaratta VIC 3678, Australia",-36.3278409,146.3535279,Wangaratta Clay Target Club,"point_of_interest,establishment",Indi
 456,50000,Warnambool Field And Game,2,VIC,"357 Wickham Rd, Woolsthorpe VIC 3276, Australia",-38.1888972,142.381346,Warrnambool Field & Game,"point_of_interest,establishment",Wannon
@@ -461,34 +461,34 @@
 459,205360,Wodonga Football And Sports Club,2,VIC,"Cheesley St, Wodonga VIC 3690, Australia",-36.134726,146.881396,Wodonga Bulldogs Football & Netball Club,"point_of_interest,establishment",Indi
 460,249290,Yarriambiack Shire Council,2,VIC,"Yarriambiack, VIC, Australia",-35.9703773,142.4465474,Yarriambiack,"administrative_area_level_2,political",Mallee
 461,123648,Ashwood Sports Club,3,VIC,"Essex Heights Reserve, Outlook Rd, Mount Waverley VIC 3149, Australia",-37.8642489,145.1141288,Ashwood Sports Club,"point_of_interest,establishment",Chisholm
-462,90940,Australian Pitch And Putt Association For Golphrobics (Waverley Pitch And Putt),3,VIC,"Corner of Wellington and Garnett Rd, Mulgrave VIC 3170, Australia",-37.9226987,145.1995695,Pitch & Putt Golf Course,"point_of_interest,establishment",Hotham
-463,160000,Baw Baw Shire Council,3,VIC,"Civic Pl, Warragul VIC 3820, Australia",-38.15898869999999,145.9330295,Baw Baw Shire Council,"point_of_interest,establishment",Monash
+462,90940,Australian Pitch And Putt Association For Golphrobics (Waverley Pitch And Putt),3,VIC,"Corner of Wellington and Garnett Rd, Mulgrave VIC 3170, Australia",-37.9226987,145.1995695,Pitch & Putt Golf Course,"point_of_interest,establishment",Bruce
+463,160000,Baw Baw Shire Council,3,VIC,"Civic Pl, Warragul VIC 3820, Australia",-38.15898869999999,145.9330295,Baw Baw Shire Council,"point_of_interest,establishment",McMillan
 464,49850,Burwood District Bowls Club,3,VIC,"Burwood Reserve, Warrigal Road, Burwood VIC 3125, Australia",-37.8549309,145.0933631,Burwood District Bowls Club,"point_of_interest,establishment",Higgins
 465,38000,Camberwell Hockey Club,3,VIC,"15 Carinda Rd, Canterbury VIC 3126, Australia",-37.828266,145.073006,Camberwell Hockey Club Inc,"point_of_interest,establishment",Kooyong
 466,500000,Cardinia Shire Council,3,VIC,"20 Siding Ave, Officer VIC 3809, Australia",-38.065571,145.413175,Cardinia Shire Council,"local_government_office,point_of_interest,establishment",La Trobe
-467,189265,Cheltenham Football Club,3,VIC,"301-307 Centre Dandenong Rd, Cheltenham VIC 3192, Australia",-37.9685464,145.0914624,Bentleigh Greens Soccer Club,"point_of_interest,establishment",Isaacs
+467,189265,Cheltenham Football Club,3,VIC,"301-307 Centre Dandenong Rd, Cheltenham VIC 3192, Australia",-37.9685464,145.0914624,Bentleigh Greens Soccer Club,"point_of_interest,establishment",Hotham
 468,500000,City Of Ballarat,3,VIC,"Ballarat, VIC, Australia",-37.4585878,143.7803147,Ballarat,"administrative_area_level_2,political",Ballarat
-469,120775,City Of Echuca Bowls Club,3,VIC,"201 Ogilvie Ave, Echuca VIC 3564, Australia",-36.1409764,144.7532675,City of Echuca Bowls Club,"point_of_interest,establishment",Nicholls
+469,120775,City Of Echuca Bowls Club,3,VIC,"201 Ogilvie Ave, Echuca VIC 3564, Australia",-36.1409764,144.7532675,City of Echuca Bowls Club,"point_of_interest,establishment",Murray
 470,20000,City Of Greater Dandenong,3,VIC,"Greater Dandenong, VIC, Australia",-38.00611079999999,145.2038278,Greater Dandenong,"administrative_area_level_2,political",Isaacs
 471,20000,City Of Greater Dandenong,3,VIC,"Greater Dandenong, VIC, Australia",-38.00611079999999,145.2038278,Greater Dandenong,"administrative_area_level_2,political",Isaacs
 472,90000,East Camberwell Tennis Club,3,VIC,"Riversdale Park Corner Of Spencer Road And Riversdale Roads, Camberwell VIC 3124, Australia",-37.831888,145.07129,East Camberwell Tennis Club,"school,health,point_of_interest,establishment",Kooyong
 473,500000,East Gippsland Shire Council,3,VIC,"273 Main St, Bairnsdale VIC 3875, Australia",-37.827859,147.625004,East Gippsland Shire Council,"city_hall,local_government_office,point_of_interest,establishment",Gippsland
-474,42000,Ellinbank Badminton Club,3,VIC,"66 Alfred St, Warragul VIC 3820, Australia",-38.1679351,145.9380272,Warragul Badminton Club,"point_of_interest,establishment",Monash
-475,3000,Endeavour Sporting (Soccer) Club,3,VIC,"22 Skye Cres, Endeavour Hills VIC 3802, Australia",-37.964709,145.265759,Endeavour Sporting Club,"point_of_interest,establishment",Bruce
-476,500000,Equestrian Victoria,3,VIC,"400 Epsom Rd, Flemington VIC 3031, Australia",-37.7842934,144.9171147,Equestrian Victoria Branch,"point_of_interest,establishment",Maribyrnong
-477,34965,Footscray Park Bowling Club (),3,VIC,"1 Hoadley Ct, Footscray VIC 3011, Australia",-37.7925964,144.8968915,Footscray Park Bowling Club,"point_of_interest,establishment",Maribyrnong
+474,42000,Ellinbank Badminton Club,3,VIC,"66 Alfred St, Warragul VIC 3820, Australia",-38.1679351,145.9380272,Warragul Badminton Club,"point_of_interest,establishment",McMillan
+475,3000,Endeavour Sporting (Soccer) Club,3,VIC,"22 Skye Cres, Endeavour Hills VIC 3802, Australia",-37.964709,145.265759,Endeavour Sporting Club,"point_of_interest,establishment",Holt
+476,500000,Equestrian Victoria,3,VIC,"400 Epsom Rd, Flemington VIC 3031, Australia",-37.7842934,144.9171147,Equestrian Victoria Branch,"point_of_interest,establishment",Melbourne
+477,34965,Footscray Park Bowling Club (),3,VIC,"1 Hoadley Ct, Footscray VIC 3011, Australia",-37.7925964,144.8968915,Footscray Park Bowling Club,"point_of_interest,establishment",Gellibrand
 478,180131,Frankston Baseball Club,3,VIC,"Robinsons Reserve, Robinsons Rd, Frankston South VIC 3199, Australia",-38.1755504,145.1587771,Frankston Baseball Club,"point_of_interest,establishment",Dunkley
 479,25000,Frankston City Council,3,VIC,"Frankston, VIC, Australia",-38.140391,145.1596592,Frankston,"administrative_area_level_2,political",Dunkley
 480,500000,Geelong Soccer & Sports Club,3,VIC,"1A Crown St, South Geelong VIC 3220, Australia",-38.1667663,144.3678602,Vic Beach Volleyball Geelong,"point_of_interest,establishment",Corio
-481,476558,Glen Eira City Council,3,VIC,"Corner Glen Eira and Hawthorn Roads, Caulfield VIC 3162, Australia",-37.8803512,145.0224024,Glen Eira City Council,"local_government_office,city_hall,point_of_interest,establishment",Macnamara
+481,476558,Glen Eira City Council,3,VIC,"Corner Glen Eira and Hawthorn Roads, Caulfield VIC 3162, Australia",-37.8803512,145.0224024,Glen Eira City Council,"local_government_office,city_hall,point_of_interest,establishment",Melbourne Ports
 482,25000,Grace Park Hawthorn Club,3,VIC,"6 Hilda Cres, Hawthorn VIC 3122, Australia",-37.8205019,145.0293011,Grace Park Hawthorn Club,"point_of_interest,establishment",Kooyong
 483,256000,Grovedale Tigers Football Netball Club,3,VIC,"Bluff Rd, Barwon Heads VIC 3227, Australia",-38.287606,144.495018,Barwon Heads Football & Netball Club,"point_of_interest,establishment",Corangamite
 484,500000,Hawthorn Malvern Hockey Centre Pty Ltd,3,VIC,"482 Auburn Rd, Hawthorn VIC 3122, Australia",-37.8404905,145.0413188,Hawthorn-Malvern Hockey Centre,"point_of_interest,establishment",Kooyong
 485,200000,Hobsons Bay City Council,3,VIC,"Hobsons Bay, VIC, Australia",-37.8360799,144.8401227,Hobsons Bay,"administrative_area_level_2,political",Gellibrand
-486,42000,Irrewarra Cricket Club,3,VIC,"136-146 Hearn St, Colac VIC 3250, Australia",-38.3499294,143.5865983,Irrewarra Cricket Club,"point_of_interest,establishment",Wannon
+486,42000,Irrewarra Cricket Club,3,VIC,"136-146 Hearn St, Colac VIC 3250, Australia",-38.3499294,143.5865983,Irrewarra Cricket Club,"point_of_interest,establishment",Corangamite
 487,50000,Kawarren Recreation Reserve,3,VIC,"Kawarren Recreation Reserve, Kawarren VIC 3249, Australia",-38.4801289,143.5843654,Kawarren Recreation Reserve,"premise,establishment",Corangamite
 488,33781,Kiewa Sandy Creek Netball Club,3,VIC,"27 Kiewa E Rd, Tangambalanga VIC 3691, Australia",-36.25178,147.0282795,Kiewa-Sandy Creek Football Club,"point_of_interest,establishment",Indi
-489,500000,Kingston City Council,3,VIC,"Kingston, VIC, Australia",-37.9818897,145.1044805,Kingston,"administrative_area_level_2,political",Isaacs
+489,500000,Kingston City Council,3,VIC,"Kingston, VIC, Australia",-37.9818897,145.1044805,Kingston,"administrative_area_level_2,political",Hotham
 490,300000,Knox City Council,3,VIC,"Knox, VIC, Australia",-37.8714657,145.2480193,Knox,"administrative_area_level_2,political",Aston
 491,10483,Lancefield Tennis Club,3,VIC,"66 Chauncey St, Lancefield VIC 3435, Australia",-37.2791584,144.7236438,Lancefield Tennis Club,"point_of_interest,establishment",McEwen
 492,30000,Main Ridge Pony Club,3,VIC,"function(){return _.O(this,11, Main Ridge VIC 3928, Australia",-38.4137738,144.9559819,Main Ridge Pony Club,"point_of_interest,establishment",Flinders
@@ -500,19 +500,19 @@
 498,245972,Mornington Peninsula Shire,3,VIC,"Shire of Mornington Peninsula, VIC, Australia",-38.2854053,145.093449,Shire of Mornington Peninsula,"administrative_area_level_2,political",Flinders
 499,250000,Neangar Park Golf Club Orporated,3,VIC,"7 Averys Rd, Eaglehawk VIC 3556, Australia",-36.71395800000001,144.26894,Neangar Park Golf Club,"point_of_interest,store,establishment",Bendigo
 500,200000,North Box Hill Tennis Club,3,VIC,"24 Elizabeth St, Box Hill North VIC 3129, Australia",-37.7991732,145.1249257,North Box Hill Tennis Club,"school,health,point_of_interest,establishment",Chisholm
-501,50000,North Ringwood Tennis Club,3,VIC,"246 Warrandyte Rd, Ringwood North VIC 3134, Australia",-37.7902816,145.2363064,North Ringwood Tennis Club,"point_of_interest,establishment",Deakin
-502,500000,Northern Grampians Shire Council,3,VIC,"59-69 Main St, Stawell VIC 3380, Australia",-37.0565566,142.7788971,Northern Grampians Shire Council Stawell Offices,"local_government_office,point_of_interest,establishment",Wannon
-503,500000,Northern Grampians Shire Council,3,VIC,"59-69 Main St, Stawell VIC 3380, Australia",-37.0565566,142.7788971,Northern Grampians Shire Council Stawell Offices,"local_government_office,point_of_interest,establishment",Wannon
+501,50000,North Ringwood Tennis Club,3,VIC,"246 Warrandyte Rd, Ringwood North VIC 3134, Australia",-37.7902816,145.2363064,North Ringwood Tennis Club,"point_of_interest,establishment",Menzies
+502,500000,Northern Grampians Shire Council,3,VIC,"59-69 Main St, Stawell VIC 3380, Australia",-37.0565566,142.7788971,Northern Grampians Shire Council Stawell Offices,"local_government_office,point_of_interest,establishment",Mallee
+503,500000,Northern Grampians Shire Council,3,VIC,"59-69 Main St, Stawell VIC 3380, Australia",-37.0565566,142.7788971,Northern Grampians Shire Council Stawell Offices,"local_government_office,point_of_interest,establishment",Mallee
 504,48400,Parkside Junior Football Club,3,VIC,"7B Parkside Ave, Keilor East VIC 3033, Australia",-37.7430125,144.8574425,East Keilor Football Club,"point_of_interest,establishment",Maribyrnong
-505,50000,Preston Bullants Amateur Football Club,3,VIC,"24 Madeline St, Preston VIC 3072, Australia",-37.733588,145.0228026,Preston Bullants Football Club,"point_of_interest,establishment",Cooper
-506,45000,Research Tennis Club,3,VIC,"1459B Main Rd, Research VIC 3095, Australia",-37.703135,145.177344,Research Tennis Club,"point_of_interest,establishment",Menzies
-507,350000,Shire Of Strathbogie,3,VIC,"Strathbogie, VIC, Australia",-36.84858570000001,145.402868,Strathbogie,"administrative_area_level_2,political",Nicholls
+505,50000,Preston Bullants Amateur Football Club,3,VIC,"24 Madeline St, Preston VIC 3072, Australia",-37.733588,145.0228026,Preston Bullants Football Club,"point_of_interest,establishment",Batman
+506,45000,Research Tennis Club,3,VIC,"1459B Main Rd, Research VIC 3095, Australia",-37.703135,145.177344,Research Tennis Club,"point_of_interest,establishment",Jagajaga
+507,350000,Shire Of Strathbogie,3,VIC,"Strathbogie, VIC, Australia",-36.84858570000001,145.402868,Strathbogie,"administrative_area_level_2,political",Murray
 508,172606,Somers Yacht Club,3,VIC,"99 Alexandra Ave, Somers VIC 3927, Australia",-38.3935373,145.1571527,Somers Yacht Club,"point_of_interest,establishment",Flinders
-509,340500,St Kilda City Junior Football Club,3,VIC,"89 Ormond Esplanade, Elwood VIC 3184, Australia",-37.8884715,144.9865966,St Kilda City Junior Football Club,"point_of_interest,establishment",Macnamara
+509,340500,St Kilda City Junior Football Club,3,VIC,"89 Ormond Esplanade, Elwood VIC 3184, Australia",-37.8884715,144.9865966,St Kilda City Junior Football Club,"point_of_interest,establishment",Melbourne Ports
 510,50000,St Mary'S Salesian Amateur Football Club,3,VIC,"Glen Iris Rd, Melbourne SA 3147, Australia",-37.8521351,145.0676821,St Mary's Salesian Amateur Football Club,"point_of_interest,establishment",Higgins
 511,500000,Wangaratta Rural City Council,3,VIC,"62-68 Ovens St, Wangaratta VIC 3677, Australia",-36.35492,146.32386,Rural City of Wangaratta,"local_government_office,point_of_interest,establishment",Indi
 512,50000,Warranor Junior Football Club,3,VIC,"Greenwood Dr, Bundoora VIC 3083, Australia",-37.70507569999999,145.0654493,Bundoora Junior Football Club,"point_of_interest,establishment",Jagajaga
-513,189287,Wonthaggi Power Football Netball Club,3,VIC,"Wonthaggi VIC 3995, Australia",-38.600308,145.5967825,Wonthaggi Football Netball Club,"point_of_interest,establishment",Monash
+513,189287,Wonthaggi Power Football Netball Club,3,VIC,"Wonthaggi VIC 3995, Australia",-38.600308,145.5967825,Wonthaggi Football Netball Club,"point_of_interest,establishment",McMillan
 514,500000,Yarra Ranges Shire Council,3,VIC,"Yarra Ranges, VIC, Australia",-37.7450808,145.7133909,Yarra Ranges,"administrative_area_level_2,political",Casey
 515,12350,Blue Gum Park Tennis Club,1,WA,"Disney St, Brentwood WA 6153, Australia",-32.040796,115.846745,Blue Gum Park Tennis Club,"point_of_interest,establishment",Tangney
 516,180000,Bunbury Tennis Club (Inc),1,WA,"Hay Park, Parade Rd, Bunbury WA 6231, Australia",-33.3666483,115.6389034,Bunbury Tennis Club,"point_of_interest,establishment",Forrest

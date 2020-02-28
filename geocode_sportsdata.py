@@ -25,7 +25,9 @@ OUTPUT_FILENAME_FOUND = "data/grants_geocoded.csv"
 OUTPUT_FILENAME_MISSED = "data/grants_geocoded_missed.csv"
 INPUT_FILENAME = "data/grants.csv"
 ADDRESS_COLUMN_NAME = "club"
-ELECTORAL_BOUNDARIES_SHAPEFILE = "data/boundaries/COM_ELB_region.shp"
+ELECTORAL_BOUNDARIES_2019 = "data/boundaries/2019/COM_ELB_region.shp"
+ELECTORAL_BOUNDARIES_2016 = "data/boundaries/2016/COM_ELB.TAB"
+
 RETURN_FULL_RESULTS = False
 
 if not API_KEY:
@@ -34,9 +36,7 @@ if not API_KEY:
 if not INPUT_FILENAME or not os.path.isfile(INPUT_FILENAME):
     raise Exception("Require input file, run scrape_sportsdata.py first")
 
-if not ELECTORAL_BOUNDARIES_SHAPEFILE or not os.path.isfile(
-    ELECTORAL_BOUNDARIES_SHAPEFILE
-):
+if not ELECTORAL_BOUNDARIES_2016 or not os.path.isfile(ELECTORAL_BOUNDARIES_2016):
     raise Exception("Require electoral boundaries shapefile .. check README")
 
 data = pd.read_csv(INPUT_FILENAME, encoding="utf8")
@@ -49,7 +49,7 @@ if ADDRESS_COLUMN_NAME not in data.columns:
 addresses = data[ADDRESS_COLUMN_NAME].tolist()
 # addresses = (data[ADDRESS_COLUMN_NAME] + "," + data["state"] + ", Australia").tolist()
 
-boundaries = gpd.read_file(ELECTORAL_BOUNDARIES_SHAPEFILE)
+boundaries = gpd.read_file(ELECTORAL_BOUNDARIES_2016)
 
 
 def normalize_electorate(name):
@@ -66,6 +66,8 @@ def normalize_electorate(name):
         return "McEwen"
     if name == "O'connor":
         return "O'Connor"
+    if name == "Mcmillan":
+        return "McMillan"
     return name
 
 
@@ -75,7 +77,12 @@ def get_electorate(lng, lat):
     for _, electorate in boundaries.iterrows():
         if p.within(electorate.geometry):
             logging.debug("{} in {}".format(record["name"], electorate["Sortname"]))
-            return normalize_electorate(electorate["Sortname"])
+            if "Elect_div" in electorate:
+                return normalize_electorate(electorate["Sortname"])
+            if "Sortname" in electorate:
+                return normalize_electorate(electorate["Sortname"])
+            logging.error("Could not find electorate in shapefile")
+            return ""
 
     return None
 

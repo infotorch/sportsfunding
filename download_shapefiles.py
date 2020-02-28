@@ -9,8 +9,16 @@ import tempfile
 
 logging.basicConfig(level=logging.DEBUG)
 
-SHAPEFILE_URI = "https://www.aec.gov.au/Electorates/gis/files/national-esri-fe2019.zip"
-TARGET_PATH = "data/boundaries"
+DOWNLOADS = [
+    {
+        "uri": "https://aec.gov.au/Electorates/gis/files/national-midmif-09052016.zip",
+        "path": "data/boundaries/2016",
+    },
+    {
+        "uri": "https://www.aec.gov.au/Electorates/gis/files/national-esri-fe2019.zip",
+        "path": "data/boundaries/2019",
+    },
+]
 
 
 def download_file(url):
@@ -26,12 +34,17 @@ def download_file(url):
     return save_path
 
 
-if __name__ == "__main__":
-    file_name = download_file(SHAPEFILE_URI)
+def download(dl):
+    file_name = download_file(dl["uri"])
     if not os.path.isfile(file_name):
         logging.error("No file found at {}".format(file_name))
         os.rmdir(os.path.dirname(file_name))
         sys.exit(-1)
     with zipfile.ZipFile(file_name) as zf:
-        zf.extractall(TARGET_PATH)
-    logging.info("Extracted to {}".format(TARGET_PATH))
+        zf.extractall(dl["path"])
+    logging.info("Extracted to {}".format(dl["path"]))
+
+
+if __name__ == "__main__":
+    for d in DOWNLOADS:
+        download(d)
