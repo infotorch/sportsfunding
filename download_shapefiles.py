@@ -6,7 +6,6 @@ import zipfile
 import shutil
 import logging
 import tempfile
-from pprint import pprint
 
 logging.basicConfig(level=logging.DEBUG)
 
