@@ -21,7 +21,15 @@ def parse_name(name=None):
     if not name:
         return None
 
-    name = name.replace(os.linesep, "").replace("\r", "")
+    name = (
+        name.replace(os.linesep, "")
+        .replace("\r", "")
+        .replace("Inc", "")
+        .replace("Incorporation", "")
+        .replace("Incorporated", "")
+        .replace(".", "")
+        .replace(",", "")
+    )
     return re.sub(r"\s+", " ", name).strip().title()
 
 
@@ -62,12 +70,6 @@ class SportsGrantSpider(Spider):
 
 settings = Settings(
     {
-        # 'ITEM_PIPELINES': {
-        #     '__main__.WriterPipeline': 100,
-        # },
-        "DOWNLOADER_MIDDLEWARES": {
-            # 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
-        },
         "USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",
         "FEED_FORMAT": "csv",
         "FEED_URI": OUTPUT_FILENAME,
